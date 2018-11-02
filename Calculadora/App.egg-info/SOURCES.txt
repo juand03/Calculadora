@@ -1,0 +1,7 @@
+Calculadora2.py
+calculadora.py
+setup.py
+App.egg-info/PKG-INFO
+App.egg-info/SOURCES.txt
+App.egg-info/dependency_links.txt
+App.egg-info/top_level.txt
